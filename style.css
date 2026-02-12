@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+    .gradient-bg {
+    background:  #9dc2e1
+}
+
+.custom-card {
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.btn-hover:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+.success-text {
+    color: green;
+    font-weight: bold;
+}
+
+.error-text {
+    color: red;
+    font-weight: bold;
+}
